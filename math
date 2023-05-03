@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>
+            inicio
+        </title>
+    </head>
+    <body>
+        <input type="number" id="n1">
+        <input type="number" id="n2">
+    </body>      
+        <html>
+    
